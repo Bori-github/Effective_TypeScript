@@ -17,7 +17,7 @@
   - [ ] [:memo: Item 9][Item 9]: Prefer Type Declarations to Type Assertions
   - [ ] [:memo: Item 10][Item 10]: Avoid Object Wrapper Types (String, Number, Boolean, Symbol, BigInt)
   - [ ] [:memo: Item 11][Item 11]: Recognize the Limits of Excess Property Checking
-  - [ ] [:memo: Item 12][Item 12]: Apply Types to Entire Function Expressions When Possible
+  - [x] [:memo: Item 12][Item 12]: Apply Types to Entire Function Expressions When Possible
   - [ ] [:memo: Item 13][Item 13]: Know the Differences Between type and interface
   - [ ] [:memo: Item 14][Item 14]: Use Type Operations and Generics to Avoid Repeating Yourself
   - [ ] [:memo: Item 15][Item 15]: Use Index Signatures for Dynamic Data
