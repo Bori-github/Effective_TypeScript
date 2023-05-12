@@ -21,7 +21,7 @@
   - [x] [:memo: Item 13][Item 13]: Know the Differences Between type and interface
   - [ ] [:memo: Item 14][Item 14]: Use Type Operations and Generics to Avoid Repeating Yourself
   - [ ] [:memo: Item 15][Item 15]: Use Index Signatures for Dynamic Data
-  - [ ] [:memo: Item 16][Item 16]: Prefer Arrays, Tuples, and ArrayLike to number Index Signatures
+  - [x] [:memo: Item 16][Item 16]: Prefer Arrays, Tuples, and ArrayLike to number Index Signatures
   - [ ] [:memo: Item 17][Item 17]: Use readonly to Avoid Errors Associated with Mutation
   - [ ] [:memo: Item 18][Item 18]: Use Mapped Types to Keep Values in Sync
 
