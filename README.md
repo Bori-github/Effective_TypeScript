@@ -27,7 +27,7 @@
 
 - **Chapter 3: Type Inference**
   - [ ] [:memo: Item 19][Item 19]: Avoid Cluttering Your Code with Inferable Types
-  - [ ] [:memo: Item 20][Item 20]: Use Different Variables for Different Types
+  - [x] [:memo: Item 20][Item 20]: Use Different Variables for Different Types
   - [ ] [:memo: Item 21][Item 21]: Understand Type Widening
   - [ ] [:memo: Item 22][Item 22]: Understand Type Narrowing
   - [ ] [:memo: Item 23][Item 23]: Create Objects All at Once
