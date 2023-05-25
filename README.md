@@ -31,7 +31,7 @@
   - [ ] [:memo: Item 21][Item 21]: Understand Type Widening
   - [ ] [:memo: Item 22][Item 22]: Understand Type Narrowing
   - [ ] [:memo: Item 23][Item 23]: Create Objects All at Once
-  - [ ] [:memo: Item 24][Item 24]: Be Consistent in Your Use of Aliases
+  - [x] [:memo: Item 24][Item 24]: Be Consistent in Your Use of Aliases
   - [ ] [:memo: Item 25][Item 25]: Use async Functions Instead of Callbacks for Asynchronous Code
   - [ ] [:memo: Item 26][Item 26]: Understand How Context Is Used in Type Inference
   - [ ] [:memo: Item 27][Item 27]: Use Functional Constructs and Libraries to Help Types Flow
