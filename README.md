@@ -37,7 +37,7 @@
   - [ ] [:memo: Item 27][Item 27]: Use Functional Constructs and Libraries to Help Types Flow
 
 - **Chapter 4: Type Design**
-  - [ ] [:memo: Item 28][Item 28]: Prefer Types That Always Represent Valid States
+  - [x] [:memo: Item 28][Item 28]: Prefer Types That Always Represent Valid States
   - [ ] [:memo: Item 29][Item 29]: Be Liberal in What You Accept and Strict in What You Produce
   - [ ] [:memo: Item 30][Item 30]: Don’t Repeat Type Information in Documentation
   - [ ] [:memo: Item 31][Item 31]: Push Null Values to the Perimeter of Your Types
