@@ -40,7 +40,7 @@
   - [x] [:memo: Item 28][Item 28]: Prefer Types That Always Represent Valid States
   - [ ] [:memo: Item 29][Item 29]: Be Liberal in What You Accept and Strict in What You Produce
   - [ ] [:memo: Item 30][Item 30]: Don’t Repeat Type Information in Documentation
-  - [ ] [:memo: Item 31][Item 31]: Push Null Values to the Perimeter of Your Types
+  - [x] [:memo: Item 31][Item 31]: Push Null Values to the Perimeter of Your Types
   - [ ] [:memo: Item 32][Item 32]: Prefer Unions of Interfaces to Interfaces of Unions
   - [ ] [:memo: Item 33][Item 33]: Prefer More Precise Alternatives to String Types
   - [ ] [:memo: Item 34][Item 34]: Prefer Incomplete Types to Inaccurate Types
