@@ -19,6 +19,33 @@ GraphQL은 API를 위한 쿼리 언어로, 타입스크립트와 비슷한 타�
 
 GraphQL 스키마를 사용하여 API에서 사용되는 데이터 모델의 구조와 규칙을 정의하기 때문에 클라이언트와 서버 간의 데이터 요청과 응답을 정확하게 매핑할 수 있도록 도와줍니다.
 
+```typescript
+// GraphQL scheme
+type Project {
+  name: String
+  tagline: String
+  contributors: [User]
+}
+```
+
+```typescript
+// GraphQL query
+{
+  project(name: "GraphQL") {
+    tagline
+  }
+}
+```
+
+```json
+// Return data
+{
+  "project": {
+    "tagline": "A query language for APIs"
+  }
+}
+```
+
 Apollo와 같은 GraphQL 쿼리를 타입스크립트 타입으로 변환해주는 도구를 이용하여 스키마로부터 특정 쿼리의 타입스크립트 타입을 생성할 수 있고, API를 문서화할 수 있습니다.
 
 이렇게 생성된 타입 정보는 API를 정확히 사용할 수 있도록 도와줍니다.
