@@ -44,7 +44,7 @@
   - [ ] [:memo: Item 32][Item 32]: Prefer Unions of Interfaces to Interfaces of Unions
   - [ ] [:memo: Item 33][Item 33]: Prefer More Precise Alternatives to String Types
   - [ ] [:memo: Item 34][Item 34]: Prefer Incomplete Types to Inaccurate Types
-  - [ ] [:memo: Item 35][Item 35]: Generate Types from APIs and Specs, Not Data
+  - [x] [:memo: Item 35][Item 35]: Generate Types from APIs and Specs, Not Data
   - [ ] [:memo: Item 36][Item 36]: Name Types Using the Language of Your Problem Domain
   - [ ] [:memo: Item 37][Item 37]: Consider “Brands” for Nominal Typing
 
