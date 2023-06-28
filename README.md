@@ -50,7 +50,7 @@
 
 - **Chapter 5: Working with any**
   - [ ] [:memo: Item 38][Item 38]: Use the Narrowest Possible Scope for any Types
-  - [ ] [:memo: Item 39][Item 39]: Prefer More Precise Variants of any to Plain any
+  - [x] [:memo: Item 39][Item 39]: Prefer More Precise Variants of any to Plain any
   - [ ] [:memo: Item 40][Item 40]: Hide Unsafe Type Assertions in Well-Typed Functions
   - [ ] [:memo: Item 41][Item 41]: Understand Evolving any
   - [ ] [:memo: Item 42][Item 42]: Use unknown Instead of any for Values with an Unknown Type
