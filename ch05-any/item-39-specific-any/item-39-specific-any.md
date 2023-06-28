@@ -1,3 +1,5 @@
+# any를 구체적으로 변형해서 사용하기 | Effective TypeScript
+
 ## any 타입
 ***`any`* 타입은 자바스크립트에서 표현할 수 있는 모든 값을 아우르는 큰 범위의 타입** 모든 숫자, 문자열, 배열, 객체, 정규식, 함수, 클래스, DOM 앨리먼트, `null`, `undefined`가 포함됩니다.
 일반적인 상황에서는 `any` 보다 더 구체적으로 표현할 수 있는 타입이 존재할 가능성이 높습니다.
@@ -34,7 +36,7 @@
 
 ![Group 142](https://github.com/Bori-github/Effective_TypeScript/assets/85009583/fb8d56cb-1760-4734-b877-d535e280e421)
 
-TypeScript는 기본적으로 객체의 속성을 읽을 때, `string` 타입의 키를 허용하지 않습니다. 객체의 속성을 읽기 위해서는 반드시 `string literal` 타입이 키로 접근해야 합니다.
+TypeScript는 기본적으로 객체의 속성을 읽을 때, `string` 타입의 키를 허용하지 않습니다. 객체의 속성을 읽기 위해서는 반드시 `string literal` 타입의 키로 접근해야 합니다.
 
 객체의 속성에 접근해야 한다면, `string` 타입의 키를 허용하기 위해 `object` 타입 대신 인덱스 시그니처를 사용하여 `{[key: string]: any}` 타입을 사용할 수 있습니다.
 
