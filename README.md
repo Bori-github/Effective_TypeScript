@@ -54,7 +54,7 @@
   - [ ] [:memo: Item 40][Item 40]: Hide Unsafe Type Assertions in Well-Typed Functions
   - [ ] [:memo: Item 41][Item 41]: Understand Evolving any
   - [ ] [:memo: Item 42][Item 42]: Use unknown Instead of any for Values with an Unknown Type
-  - [ ] [:memo: Item 43][Item 43]: Prefer Type-Safe Approaches to Monkey Patching
+  - [x] [:memo: Item 43][Item 43]: Prefer Type-Safe Approaches to Monkey Patching
   - [ ] [:memo: Item 44][Item 44]: Track Your Type Coverage to Prevent Regressions in Type Safety
 
 - **Chapter 6: Types Declarations and @types**
