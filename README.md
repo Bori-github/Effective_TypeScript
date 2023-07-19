@@ -60,7 +60,7 @@
 - **Chapter 6: Types Declarations and @types**
   - [ ] :memo: Item 45: Put TypeScript and @types in devDependencies
   - [ ] :memo: Item 46: Understand the Three Versions Involved in Type Declarations
-  - [ ] [:memo: Item 47][Item 47]: Export All Types That Appear in Public APIs
+  - [x] [:memo: Item 47][Item 47]: Export All Types That Appear in Public APIs
   - [ ] [:memo: Item 48][Item 48]: Use TSDoc for API Comments
   - [ ] [:memo: Item 49][Item 49]: Provide a Type for this in Callbacks
   - [ ] [:memo: Item 50][Item 50]: Prefer Conditional Types to Overloaded Declarations
