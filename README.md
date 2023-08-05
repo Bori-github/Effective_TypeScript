@@ -78,7 +78,7 @@
 
   - [ ] [:memo: Item 53][Item 53]: Prefer ECMAScript Features to TypeScript Features
   - [ ] [:memo: Item 54][Item 54]: Know How to Iterate Over Objects
-  - [ ] [:memo: Item 55][Item 55]: Understand the DOM hierarchy
+  - [x] [:memo: Item 55][Item 55]: Understand the DOM hierarchy
   - [ ] [:memo: Item 56][Item 56]: Don’t Rely on Private to Hide Information
   - [ ] [:memo: Item 57][Item 57]: Use Source Maps to Debug TypeScript
 
