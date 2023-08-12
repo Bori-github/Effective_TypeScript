@@ -84,7 +84,7 @@
 
 - **Chapter 8. Migrating to TypeScript**
   - [ ] [:memo: Item 58][Item 58]: Write Modern JavaScript
-  - [ ] [:memo: Item 59][Item 59]: Use @ts- [ ]check and JSDoc to Experiment with TypeScript
+  - [x] [:memo: Item 59][Item 59]: Use @ts- [ ]check and JSDoc to Experiment with TypeScript
   - [ ] :memo: Item 60: Use allowJs to Mix TypeScript and JavaScript
   - [ ] [:memo: Item 61][Item 61]: Convert Module by Module Up Your Dependency Graph
   - [ ] [:memo: Item 62][Item 62]: Don’t Consider Migration Complete Until You Enable noImplicitAny
